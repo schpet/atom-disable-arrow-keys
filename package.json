@@ -1,0 +1,12 @@
+{
+  "name": "disable-arrow-keys",
+  "description": "Prevents your arrow keys from moving the cursor",
+  "repository": "https://github.com/schpet/atom-disable-arrow-keys",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
